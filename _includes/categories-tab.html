@@ -16,7 +16,7 @@
               {% if post.image-sm %}
                 <figure class="absolute-bg" style="background-image: url('{{ post.image-sm }}');"></figure>
               {% else %}
-                <figure class="absolute-bg" style="background-image: url('{{ post.image }}');"></figure>
+                <figure class="absolute-bg" style="background-image: url('{{ post.image }}'); width:('{{ post.width-sm}}'); height:('{{ post.height-sm}}');"></figure>
               {% endif %}
             </div>
           {% endfor %}
