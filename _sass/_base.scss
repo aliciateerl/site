@@ -1,9 +1,9 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', monospace;
-$font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-header: 'Droid Sans', sans-serif;
+$font-body: 'Droid Sans', sans-serif;
+$font-post: 'Droid Sans', sans-serif;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
@@ -62,6 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 
   font-family: $font-header;
   line-height: 1.1;
+  font-weight: 700;
 }
 
 h1 {
