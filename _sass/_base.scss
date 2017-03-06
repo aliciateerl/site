@@ -1,9 +1,9 @@
 /**
  * Base Variables
  */
-$font-header: 'Droid Sans', sans-serif;
-$font-body: 'Droid Sans', sans-serif;
-$font-post: 'Droid Sans', sans-serif;
+$font-header: 'Crimson Text', serif;
+$font-body: 'Crimson Text', serif;
+$font-post: 'Crimson Text', serif;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
@@ -129,7 +129,7 @@ blockquote {
   margin: 2em 0;
 
   font-family: $font-header;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.25em;
 }
 
