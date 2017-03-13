@@ -2,8 +2,7 @@
 layout: post
 title: "Solo Travel"
 date: 2017-03-07
-categories:
-  - Travel
+categories: Travel
 description:
 image: https://raw.githubusercontent.com/aliciateerl/site/master/_posts/picture/burma.JPG
 image-sm: https://raw.githubusercontent.com/aliciateerl/site/master/_posts/picture/burma.JPG
