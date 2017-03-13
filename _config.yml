@@ -17,8 +17,9 @@ name: Alicia Tee
 profile_img:
 profile:
 social:
-  github: http://google.com/
+  github: http://github.com/
   instagram: https://www.instagram.com/aliciateerl/
+  google: http://www.google.com/
 
 # Build settings
 include: ["_categories"]
