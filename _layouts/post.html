@@ -38,8 +38,8 @@ layout: default
         <p>{{ site.profile }}</p>
         {% for social in site.social %}
           <ul class="profile__social">
-              <li><a class="fa fa-lg fa-envelope-o" href="{{ social[2] }}"></a></li>
-              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+              <li><a class="fa fa-lg fa-envelope-o" href="{{ social[1] }}"></a></li>
+              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[0] }}" target="_blank"></a></li>
           </ul>
         {% endif %}
       </div>

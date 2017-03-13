@@ -27,7 +27,7 @@ I made everything as easy as possible to edit. Most things can be found in the `
 ### _config.yml
 
 #### Site Settings
-    email: 
+    email:
     baseurl: ""
     paginate: 5
     paginate_path: "/blog/page-:num"
@@ -40,11 +40,11 @@ I made everything as easy as possible to edit. Most things can be found in the `
 * ````google_analytics```` - Option field to replace with correct Google Analytics code
 
 #### SEO Settings
-    title: 
-    description: 
+    title:
+    description:
     url: ""
-    twitter_username: 
-    default_img: 
+    twitter_username:
+    default_img:
 
 * ````title```` - Title of blog
 * ````description```` - Description of blog (recommended to not go over 160 characters)
@@ -53,11 +53,11 @@ I made everything as easy as possible to edit. Most things can be found in the `
 * ````default_img```` - Image that will appear when posting links on social networks
 
 #### Profile Settings
-    name: 
-    profile_img: 
-    profile: 
+    name:
+    profile_img:
+    profile:
     social:
-      github: 
+      github:
 
 * ````name```` - Full name for SEO purposes
 * ````profile_img```` - Image for the profile card (size to 2000x1200px)
@@ -76,10 +76,10 @@ I made everything as easy as possible to edit. Most things can be found in the `
     ---
     layout: post
     title: ""
-    date: 
+    date:
     categories:
-    description: 
-    image: 
+    description:
+    image:
     image-sm:
     ---
 
