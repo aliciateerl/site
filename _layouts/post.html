@@ -29,21 +29,7 @@ layout: default
     </div>
   </section>
 
-  <section class="profile">
-    <div class="profile__card">
-      <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
-      </div>
-      <div class="profile__container">
-        <p>{{ site.profile }}</p>
-        {% for social in site.social %}
-          <ul class="profile__social">
-              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[0] }}" target="_blank"></a></li>
-          </ul>
-        {% endfor %}
-      </div>
-    </div>
-  </section>
+  
 
 </article>
 
