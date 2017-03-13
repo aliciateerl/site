@@ -20,6 +20,7 @@ social:
   github: http://github.com/
   instagram: https://www.instagram.com/aliciateerl/
   google: http://www.google.com/
+  facebook: http://www.facebook.com/
 
 # Build settings
 include: ["_categories"]
