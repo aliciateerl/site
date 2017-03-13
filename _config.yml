@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: Alicia Tee
 description: My website
-url: ""
+url: "http://aliciateerl.github.io/site"
 twitter_username:
 default_img:
 
@@ -20,7 +20,7 @@ social:
   github:
 
 # Build settings
-include: ["categories"]
+include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
