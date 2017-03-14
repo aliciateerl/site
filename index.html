@@ -60,24 +60,25 @@ layout: default
     </div>
 
     {% include categories-tab.html %}
+    <div id="aboutme" style="display:none">
+    This is my DIV element.
+    </div>
+
+
+      <ul class="javascript_aboutme">
+        <button onclick="myFunction()">About Meww</button>
+
+        <!--about me was here-->
+
+        <script>
+          function myFunction() {
+              document.getElementsByID("aboutme").style.display = 'inline';
+          }
+          </script>
+      </ul>
+
 
   </div>
 
-  <div id="aboutme" style="display:none">
-  This is my DIV element.
-  </div>
-
-
-    <ul class="javascript_aboutme">
-      <button onclick="myFunction()">About Me!</button>
-
-      <!--about me was here-->
-
-      <script>
-        function myFunction() {
-            document.getElementsByID("aboutme").style.display = 'inline';
-        }
-        </script>
-    </ul>
 
 </section>
