@@ -16,26 +16,15 @@
 
   <ul class="javascript_aboutme">
 
-      <button onclick="displayInfo()">Try </button>
-      <button onclick="displayInfo()">Hide </button>
+      <button onclick="displayInfo()">About Me</button>
 
-      <div id="demo">hello there!</div>
-      <div id="aboutme">About me and my life</div>
+      <div id="aboutme" style='visibility:hidden'>About me and my life</div>
 
       <script>
-      function displayInfo() {
-          document.getElementById("demo").innerHTML = 'Date';
-      }
           function displayInfo() {
-              document.getElementById("aboutme").innerHTML = 'wait what';
+              document.getElementById("aboutme").style.visibility = 'visible';
           }
       </script>
-
-      <!--
-                function myFunction() {
-                    document.getElementByID("aboutme").style.display = "none";
-                }
-      -->
 
   </ul>
 </footer>
