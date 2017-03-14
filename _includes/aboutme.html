@@ -1,3 +1,4 @@
+<!--
 <style>
   #myDIV {
     width: 500px;
@@ -5,21 +6,20 @@
     background-color: lightblue;
     }
 </style>
+-->
 
 <footer class="section-padding--sm footer">
   <a class="footer__aboutme" href="{{ site.baseurl }}/about/"> About Me
   </a>
 
   <ul class="javascript_aboutme">
-    <button onclick="myFunction()">Button!</button>
+    <button onclick="myFunction()">About Me</button>
 
-    <div id="myDIV" style="display:none">
-    This is my DIV element.
-    </div>
+    <!--about me was here-->
 
     <script>
       function myFunction() {
-          document.getElementById("myDIV").style.display = 'block';
+          document.getElementsByClassName("aboutme").style.display = 'block';
       }
       </script>
   </ul>
