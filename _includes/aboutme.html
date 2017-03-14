@@ -16,19 +16,16 @@
 
   <ul class="javascript_aboutme">
 
-      <button onclick="displayDate()">Try this</button>
-      <button onclick="displayDate()">Hide this</button>
+      <button onclick="displayInfo()">Try </button>
+      <button onclick="displayInfo()">Hide </button>
 
       <div id="demo">hello there!</div>
       <div id="aboutme">About me and my life</div>
 
       <script>
-          function displayDate() {
-              document.getElementById("demo").innerHTML = 'Date';
-          }
 
           function displayInfo() {
-              document.getElementByID("aboutme").innerHTML = 'wait what';
+              document.getElementByID("demo").innerHTML = 'wait what';
           }
       </script>
 
