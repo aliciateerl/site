@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<style>
+  #myDIV {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    }
+</style>
+
 <section class="previews">
   <div>
     {% for post in paginator.posts %}
@@ -45,10 +54,10 @@ layout: default
           {% endif %}
         </div>
 
-        <div class="aboutme" style="display:none">
+        <div id="aboutme" style="display:none">
         This is my DIV element.
         </div>
-        
+
       {% endif %}
 
       {% include aboutme.html %}
