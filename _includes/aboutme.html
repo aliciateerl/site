@@ -1,5 +1,27 @@
+<style>
+  #myDIV {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    }
+</style>
+
 <footer class="section-padding--sm footer">
-  <a class="footer__aboutme" href="{{ site.baseurl }}/about/">About Me</a>
+  <a class="footer__aboutme" href="{{ site.baseurl }}/about/">
+    <button onclick="myFunction()">Button!</button>
+
+    <div id="myDIV">
+    This is my DIV element.
+    </div>
+
+    <script>
+      function myFunction() {
+          document.getElementById("myDIV").style.display = "inline";
+      }
+      </script>
+  </a>
+
+
   <ul class="footer__social">
     {% for social in site.social %}
       <li><a class="fa fa-lg fa-{{ social[0]}}" href="{{ social[1] }}"></a></li>
