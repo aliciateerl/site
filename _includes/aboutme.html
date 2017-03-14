@@ -17,25 +17,24 @@
   <ul class="javascript_aboutme">
 
       <button onclick="displayDate()">Try this</button>
-      <script>
-      function displayDate() {
-          document.getElementById("demo").innerHTML = Date();
-      }
+      <button onclick="myFunction()">Hide line</button>
 
-      function myFunction() {
-          document.getElementByID("aboutme").style.display = "none";
-      }
-
-      </script>
       <div id="demo"></div>
+      <div id="aboutme">About me and my life</div>
 
+      <script>
+          function displayDate() {
+              document.getElementById("demo").innerHTML = Date();
+          }
+          function myFunction() {
+              document.getElementByID("aboutme").innerHTML = "none";
+          }
+      </script>
 
-      <button onclick="myFunction()">Hide details</button>
-
-      <div id="aboutme">
-      About me and my life
-      </div>
-
-
-    </ul>
+      <!--
+                function myFunction() {
+                    document.getElementByID("aboutme").style.display = "none";
+                }
+      -->
+  </ul>
 </footer>
