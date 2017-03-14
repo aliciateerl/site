@@ -14,11 +14,6 @@
   </ul>
 
 
-  <div id="aboutme" style="display:none">
-  This is my DIV element.
-  </div>
-
-
     <ul class="javascript_aboutme">
       <button onclick="displayDate()">Try this</button>
       <script>
@@ -29,14 +24,14 @@
       <div id="demo"></div>
 
 
-      <button onclick="myFunction()">About Me!</button>
-
-      <!--about me was here-->
-
+      <button onclick="myFunction()">About Me Now</button>
       <script>
         function myFunction() {
-            document.getElementByID("aboutme").style.display = 'inline';
+            document.getElementByID("aboutme").style.display = "inline";
         }
-        </script>
+      </script>
+      <div id="aboutme" style="display:none">
+      This is my DIV element.
+      </div>
     </ul>
 </footer>
