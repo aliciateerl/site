@@ -18,11 +18,11 @@
 
       <button onclick="displayInfo()">About Me</button>
 
-      <div id="aboutme" style='visibility:hidden'>About me and my life</div>
+      <div class="aboutme" style='display:none'>About me and my life</div>
 
       <script>
           function displayInfo() {
-              document.getElementById("aboutme").style.visibility = 'visible';
+              document.getElementsByClassName("aboutme").style.display = 'block';
           }
       </script>
 
