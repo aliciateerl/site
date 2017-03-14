@@ -12,4 +12,22 @@
       <li><a class="fa fa-lg fa-{{ social[0]}}" href="{{ social[1] }}"></a></li>
     {% endfor %}
   </ul>
+
+
+  <div id="aboutme" style="display:none">
+  This is my DIV element.
+  </div>
+
+
+    <ul class="javascript_aboutme">
+      <button onclick="myFunction()">About Meww</button>
+
+      <!--about me was here-->
+
+      <script>
+        function myFunction() {
+            document.getElementsByID("aboutme").style.display = 'inline';
+        }
+        </script>
+    </ul>
 </footer>
