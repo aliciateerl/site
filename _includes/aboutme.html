@@ -18,11 +18,11 @@
 
       <button onclick="displayInfo()">About Me</button>
 
-      <div class="aboutme" style='display:none'>About me and my life</div>
+      <div id="aboutme" style='display:none'>About me and my life</div>
 
       <script>
           function displayInfo() {
-              document.getElementsByClassName("aboutme").style.display = 'block';
+              document.getElementById("aboutme").style.display = 'block';
           }
       </script>
 
