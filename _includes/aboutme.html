@@ -7,7 +7,10 @@
 </style>
 
 <footer class="section-padding--sm footer">
-  <a class="footer__aboutme" href="{{ site.baseurl }}/about/">
+  <a class="footer__aboutme" href="{{ site.baseurl }}/about/"> About Me
+  </a>
+
+  <ul class="javascript_aboutme">
     <button onclick="myFunction()">Button!</button>
 
     <div id="myDIV">
@@ -19,8 +22,7 @@
           document.getElementById("myDIV").style.display = "inline";
       }
       </script>
-  </a>
-
+  </ul>
 
   <ul class="footer__social">
     {% for social in site.social %}
