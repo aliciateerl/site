@@ -60,6 +60,19 @@ layout: default
       This is my DIV element.
       </div>
 
+
+        <ul class="javascript_aboutme">
+          <button onclick="myFunction()">About Me</button>
+
+          <!--about me was here-->
+
+          <script>
+            function myFunction() {
+                document.getElementsByID("aboutme").style.display = 'block';
+            }
+            </script>
+        </ul>
+
       {% include aboutme.html %}
     </div>
 
