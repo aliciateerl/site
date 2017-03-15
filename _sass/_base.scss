@@ -41,13 +41,6 @@ body {
     font-size: 105%;
   }
 
-  @media (max-width: $mq-sm) {
-    .overlay {
-    width: 100%;
-    left: 0%;
-    }
-  }
-
   @media (min-width: $mq-md) {
     font-size: 107.5%;
   }

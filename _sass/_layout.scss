@@ -37,10 +37,17 @@
 @media screen and (max-height: 450px) {
     .overlay a {font-size: 20px}
     .overlay .closebtn {
-        font-size: 40px;
+        font-size: 20px;
         top: 15px;
         right: 35px;
     }
+}
+
+@media screen and (max-width: 30em) {
+  .overlay {
+  width: 100%;
+  left: 0%;
+  }
 }
 
 
