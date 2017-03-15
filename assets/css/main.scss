@@ -6,7 +6,7 @@
     /* Height & width depends on how you want to reveal the overlay (see JS below) */
     height: 0;
     width: 70%;
-    position: absolute; /* Stay in place */
+    position: fixed; /* Stay in place */
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
