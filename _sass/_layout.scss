@@ -17,13 +17,11 @@
 /* Position the content inside the overlay */
 .overlay-content {
     position: absolute;
-    top: 20%;
-    left: 10%;
-    right: 10%;
-    bottom: 10%;
-    width: 55%; /* 100% width */
+    top: 15%;
+    bottom: 30%;
+    width: 70%; /* 100% width */
     text-align: center; /* Centered text/links */
-    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+    margin: auto; /* 30px top margin to avoid conflict with the close button on smaller screens */
 }
 
 /* Position the close button (top right corner) */
