@@ -36,8 +36,12 @@ body {
     font-size: 102.5%;
   }
 
+// layout changes
   @media (min-width: $mq-sm) {
-    font-size: 150%;
+    font-size: 105%;
+      .overlay {
+      width: 100%;
+    }
   }
 
   @media (min-width: $mq-md) {
