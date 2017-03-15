@@ -1,34 +1,22 @@
 
 
 <footer class="section-padding--sm footer">
+  <!-- no longer needed
   <a class="footer__aboutme" href="{{ site.baseurl }}/about/"> About Me
   </a>
-
-
-
-
-  <ul class="footer__social">
-    {% for social in site.social %}
-      <li><a class="fa fa-lg fa-{{ social[0]}}" href="{{ social[1] }}"></a></li>
-    {% endfor %}
-  </ul>
+  -->
 
 
   <ul class="javascript_aboutme">
 
-      <button onclick="displayInfo()">Moving this around</button>
-
       <!-- Open overlay about me, div id aboutoverlay -->
-      <button onclick="openNav()">Open Overlay</button>
+      <button onclick="openNav()">About Me</button>
 
       <script>
-          function displayInfo() {
-              document.getElementById("aboutme").style.display = 'block';
-          }
 
           // script for overlay open
           function openNav() {
-              document.getElementById("aboutoverlay").style.height = "100%";
+              document.getElementById("aboutoverlay").style.height = "50%";
           }
 
           /* Close when someone clicks on the "x" symbol inside the overlay */
@@ -38,7 +26,12 @@
 
       </script>
 
-
-
   </ul>
+
+  <ul class="footer__social">
+    {% for social in site.social %}
+      <li><a class="fa fa-lg fa-{{ social[0]}}" href="{{ social[1] }}"></a></li>
+    {% endfor %}
+  </ul>
+
 </footer>
