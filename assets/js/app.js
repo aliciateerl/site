@@ -16,7 +16,7 @@ var Tabs = (function() {
     display: function() {
       if (s.tab.length) {
         [].forEach.call(s.tab, function(tab, idx) {
-          if (idx > 0) tab.style.display = 'none';          
+          if (idx > 0) tab.style.display = 'none';
         });
         s.tab[0].classList.add('active');
         s.tabs[0].classList.add('active');
