@@ -18,11 +18,27 @@
 
       <button onclick="displayInfo()">Moving this around</button>
 
+      <!-- Open overlay about me, div id aboutoverlay -->
+      <button onclick="openNav()">Open Overlay</button>
+
       <script>
           function displayInfo() {
               document.getElementById("aboutme").style.display = 'block';
           }
+
+          // script for overlay open
+          function openNav() {
+              document.getElementById("aboutoverlay").style.height = "100%";
+          }
+
+          /* Close when someone clicks on the "x" symbol inside the overlay */
+          function closeNav() {
+              document.getElementById("aboutoverlay").style.height = "0%";
+          }
+
       </script>
+
+
 
   </ul>
 </footer>

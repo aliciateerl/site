@@ -26,6 +26,19 @@ layout: default
       <div id="aboutme" style='display:none'>About me and my life
       </div>
 
+      <!-- about me overlay -->
+      <div id="aboutoverlay" class="overlay">
+
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+        <!-- Overlay content -->
+        <div class="overlay-content">
+          About Alicia Tee! Content goes here.
+        </div>
+
+      </div>
+
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
           <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
