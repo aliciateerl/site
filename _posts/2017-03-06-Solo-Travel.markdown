@@ -1,50 +1,16 @@
 ---
 layout: post
-title: "Solo Travel"
-date: 2017-03-07
-categories: Travel
+title: "Visiting and being visited"
+date: 2017-05-01
+categories:
+- Travel
+- Thoughts
 description:
 image: https://raw.githubusercontent.com/aliciateerl/site/master/_posts/picture/burma.JPG
 image-sm: https://raw.githubusercontent.com/aliciateerl/site/master/_posts/picture/burma.JPG
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
-
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
-
-<ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ol>
-
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
-<figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
-</figure>
-
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
-
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
-
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
-<figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
-
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
-
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
+The past month, April, has been one of continuous visits. First, I left - to Shanghai, where I spent a more or less a week walking around the city and exploring the charming neighborhoods touched by different cultures and influences, shikumen 石库门 dwellings in the French Concession gentrified with the creature comforts that tourists, and myself, unabashedly enjoy. Then, the visits to Beijing. My boyfriend came, my parents came, my sister came - at different times, but for a single day, they overlapped. Half of my world descended onto Beijing, colliding with this place that I’ve come to love and cherish for the past couple of months. What a surreal feeling that was. As someone who has lived my life segmented into very different time periods based on where I’m currently located, many of my experiences and relationships come tagged by place. I associate groups of people by where I’ve interacted with them - high school friends in Singapore, college friends in America, exchange friends in Salamanca, etc. When worlds collide, I find it extraordinary, surprising, dislocating.
+<br> <br>
+These visits, of course, were extremely beautiful. Both because having my loved ones around naturally makes everything warmer, but also because it reminds me that people are willing to fly 5 hours to visit the place that I’ve come to find a very important part of my life (and maybe somewhere in that mix, also, visit me). But, still, and possibly resultantly, it was also exhausting. For the two - three weeks that people were visiting, I was constantly showing people around. I wonder a little how much of this has to do with the visits being in China, which is an overwhelming place even if you’ve stayed there for a while, let alone if you’ve never been before. Beijing is loud, crowded, bustling, simultaneously so familiar and distinct from Singapore. but another part of it was the personal stakes I had put on these visits. I haven’t fully understood - or tried to understand - why I have enjoyed Beijing so thoroughly, but I know I do, and I knew that I wanted my loved ones to experience that for themselves. Having not quite figured out why I like Beijing (some speculations - occupying the liminal space between being foreign and looking local, cost of living, finding quiet corners in a loud street seems more rewarding, ethnic familiarity by virtue of appearance, supporting the ‘cultural underdog’?)  trying to show this to my family was almost like groping in the dark, trying to expose them to the fullest range of experiences I could. From eating in shopping malls to dining in Dali Courtyard, from walking around Wangfujing to getting drinks at Mai Bar - I tried to show them as much contrast as I could. At one point I made a list of different culinary types within China that they should check-off on their visit here (Beijing, Xinjiang, Sichuan, Yunnan etc.) almost because their visits, unrealistically, seemed to me like an opportunity to give a crash course introduction to China.
+<br><br>
+For two weeks I flitted between real life and travel life. Work could be delayed but not avoided entirely, and coming back to my dorms every night was a reminder that I couldn’t put everything completely on hold. The anxiety of knowing the tasks that lay ahead, compounded with feeling like a tour guide, meant that there were moments of real exhaustion. The two weeks were incredible, fun, but tiring, and there were moments that I wanted to sit down, sedentary, and do absolutely nothing. The moment it all ended, however, I felt a little empty. My two main takeaways at that point was an overwhelming feeling of being blessed, lucky that I had people willing to take time off work to visit me; and also the realization that this year in China seemed more and more like my life on pause. My loved ones, taking different flights to Beijing and leaving at different times, were all going to congregate back in Singapore, where ultimately, their lives were situated. And where my future will be. More and more, Beijing felt and feels like a pause. A meaningful, amazing, rare pause - but limbo, all the same.
